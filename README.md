@@ -14,11 +14,14 @@ The PCA9540BD pins have a pitch of 0.05 inches making the component difficult to
 conveniently be connected in the middle of the board. Unlike a DIP8 connector, the order of the pins are altered so that
 all pins connected to your arduino are on one side, and all pins connected to your devices are on the other side.
 
+<img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/small_breakout.png" />
+
+
 The schematics are under the GPLv3+ license.
 
 ## Library for arduino ##
 
-I have implemented a library for arduino allowing you to control the component. It is available in this [repository](https://github.com/sdrdis/PCA9540BD).
+I have implemented a driver for arduino allowing you to control the component. It is available in this [repository](https://github.com/sdrdis/PCA9540BD).
 
 ## About the author ##
 
