@@ -19,6 +19,10 @@ all pins connected to your arduino are on one side, and all pins connected to yo
 
 <img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/small_breakout_middle.png" />
 
+You can see below how the pins are ordered:
+
+<img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/small_breakout_pins.png" />
+
 The schematics are under the GPLv3+ license.
 
 ## Library for arduino ##
