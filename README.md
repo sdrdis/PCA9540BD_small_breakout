@@ -10,12 +10,14 @@ Let's say that you want to get data from 2 components through I2C but they both 
 
 ## About this breakout board ##
 
-The PCA9540BD pins have a pitch of 0.05 inches making the component difficult to connect to your arduino. This breakout board allows you to connect the PCA9540BD component to a classical prototype board. It can
-conveniently be connected in the middle of the board. Unlike a DIP8 connector, the order of the pins are altered so that
-all pins connected to your arduino are on one side, and all pins connected to your devices are on the other side.
+The PCA9540BD pins have a pitch of 0.05 inches making the component difficult to connect to your arduino. This breakout board allows you to connect the PCA9540BD component to a classical prototype board.
 
 <img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/small_breakout.png" />
 
+It can conveniently be connected in the middle of the board. Unlike a DIP8 connector, the order of the pins are altered so that
+all pins connected to your arduino are on one side, and all pins connected to your devices are on the other side.
+
+<img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/small_breakout_middle.png" />
 
 The schematics are under the GPLv3+ license.
 
