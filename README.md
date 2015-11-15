@@ -31,4 +31,6 @@ I have implemented a driver for arduino allowing you to control the component. I
 
 ## About the author ##
 
+[See the blog post about the project.](http://sebastien.drouyer.com/projects/pca9540bd-driver-for-arduino-breakout-boards-schematics.html)
+
 Sebastien Drouyer - [website](http://sebastien.drouyer.com) - [twitter](https://twitter.com/sdrdis)
